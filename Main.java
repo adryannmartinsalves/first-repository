@@ -37,7 +37,7 @@ public class Main{
 
     for(int a = 0; a < 10; a++){
         vetor[a] = a+1;
-        System.out.println("Valor do Vetor: "+ vetor[a] +" | Posição: "+ a);
+        System.out.println("Valor do Vetor: "+ vetor[a] +"  Posição: "+ a);
     }
 
     }
